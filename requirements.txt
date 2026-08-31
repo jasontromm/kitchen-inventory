@@ -1,0 +1,6 @@
+# Optional. Day-to-day use is grok.com SQL against MySQL 8 — see README.
+# Install these only if you run the Python connector (scripts/ping_db.py, migrate).
+PyMySQL>=1.1.0
+python-dotenv>=1.0.0
+cryptography
+pytest>=8.0
